@@ -1,0 +1,64 @@
+[
+      {
+        "id": 1,
+        "name": "Pasta with Meatballs",
+        "picture": "https://example.com/pasta-with-meatballs.png",
+        "experience": "Easy",
+        "number_of_recipe": 500,
+        "likes": 10000,
+        "bio": "This classic Italian dish is loved by all and is sure to be a hit at your next family dinner!",
+        "category": "Italian"
+      },
+      {
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "picture": "https://example.com/chicken-tikka-masala.png",
+        "experience": "Intermediate",
+        "number_of_recipe": 250,
+        "likes": 8000,
+        "bio": "This popular Indian dish is rich in flavor and perfect for impressing your dinner guests.",
+        "category": "Indian"
+      },
+      {
+        "id": 3,
+        "name": "Classic Cheeseburger",
+        "picture": "https://example.com/classic-cheeseburger.png",
+        "experience": "Easy",
+        "number_of_recipe": 1000,
+        "likes": 20000,
+        "bio": "Sometimes, you just need a good ol' classic cheeseburger. This recipe will hit the spot!",
+        "category": "American"
+      },
+      {
+        "id": 4,
+        "name": "Sushi Rolls",
+        "picture": "https://example.com/sushi-rolls.png",
+        "experience": "Advanced",
+        "number_of_recipe": 100,
+        "likes": 5000,
+        "bio": "Making sushi rolls at home may seem intimidating, but with a little practice, you'll be a pro in no time!",
+        "category": "Japanese"
+      },
+      {
+        "id": 5,
+        "name": "Roasted Brussels Sprouts",
+        "picture": "https://example.com/roasted-brussels-sprouts.png",
+        "experience": "Easy",
+        "number_of_recipe": 200,
+        "likes": 6000,
+        "bio": "This delicious side dish is perfect for any meal and is a great way to incorporate more veggies into your diet.",
+        "category": "Vegetarian"
+      },
+      {
+        "id": 6,
+        "name": "Lemon Garlic Shrimp Scampi",
+        "picture": "https://example.com/lemon-garlic-shrimp-scampi.png",
+        "experience": "Intermediate",
+        "number_of_recipe": 150,
+        "likes": 7000,
+        "bio": "This flavorful dish is perfect for a fancy dinner party or a romantic date night at home.",
+        "category": "Seafood"
+      }
+    ]
+
+  

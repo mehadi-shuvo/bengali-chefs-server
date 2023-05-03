@@ -15,7 +15,7 @@ app.get('/chefs', (req, res)=>{
 })
 app.get("/chefs/:id", (req, res)=>{
     const id = req.params.id;
-    const chef = chefs.find(ch=> parseInt(ch.id)===parseInt(id));
+    const chef = chefs.find(ch=> parseInt(ch.id) === parseInt(id));
     res.send(chef);
 })
 app.listen(port, ()=>{

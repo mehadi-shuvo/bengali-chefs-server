@@ -1,0 +1,52 @@
+[
+      {
+        "name": "Pesto Pasta",
+        "ingredients": [
+          "1 pound spaghetti",
+          "1 cup fresh basil leaves",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup olive oil",
+          "1/4 cup pine nuts",
+          "3 garlic cloves, chopped",
+          "Salt and pepper to taste"
+        ],
+        "method": "1. Cook spaghetti according to package instructions.\n2. In a food processor, combine basil, Parmesan cheese, olive oil, pine nuts, garlic, salt, and pepper. Pulse until smooth.\n3. Drain spaghetti and toss with pesto sauce until evenly coated.\n4. Serve hot and enjoy!",
+        "rating": 4.5
+      },
+      {
+        "name": "Chicken Tikka Masala",
+        "ingredients": [
+          "1 pound boneless, skinless chicken breasts, cut into bite-sized pieces",
+          "1 cup plain yogurt",
+          "1 tablespoon lemon juice",
+          "2 teaspoons ground cumin",
+          "1 teaspoon ground cinnamon",
+          "1 teaspoon cayenne pepper",
+          "1 teaspoon freshly ground black pepper",
+          "1 tablespoon minced fresh ginger",
+          "4 cloves garlic, minced",
+          "1 cup tomato sauce",
+          "1 cup heavy cream",
+          "1/4 cup chopped fresh cilantro"
+        ],
+        "method": "1. In a large bowl, combine chicken, yogurt, lemon juice, cumin, cinnamon, cayenne, black pepper, ginger, and garlic. Stir to combine, then cover and refrigerate for at least 1 hour or overnight.\n2. Preheat oven to 400°F. Line a baking sheet with aluminum foil.\n3. Thread chicken onto skewers and place on prepared baking sheet.\n4. Bake for 20-25 minutes or until chicken is cooked through.\n5. In a large saucepan, heat tomato sauce and cream over medium heat. Add chicken and stir to combine.\n6. Serve hot with rice and garnish with cilantro.",
+        "rating": 4.8
+      },
+      {
+        "name": "Chocolate Chip Cookies",
+        "ingredients": [
+          "2 1/4 cups all-purpose flour",
+          "1 teaspoon baking soda",
+          "1 teaspoon salt",
+          "1 cup unsalted butter, at room temperature",
+          "3/4 cup granulated sugar",
+          "3/4 cup brown sugar",
+          "2 large eggs",
+          "1 teaspoon vanilla extract",
+          "2 cups semisweet chocolate chips"
+        ],
+        "method": "1. Preheat oven to 375°F. Line a baking sheet with parchment paper.\n2. In a medium bowl, whisk together flour, baking soda, and salt.\n3. In a large bowl, beat butter, granulated sugar, and brown sugar until creamy. Add eggs and vanilla extract and beat until well combined.\n4. Gradually add flour mixture to butter mixture and beat until just combined. Stir in chocolate chips.\n5. Drop tablespoon-sized balls of dough onto prepared baking sheet, spacing them about 2 inches apart.\n6. Bake for 10-12 minutes or until golden brown.\n7. Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+        "rating": 4.9
+      }
+    ]
+  

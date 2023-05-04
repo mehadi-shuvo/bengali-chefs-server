@@ -1,5 +1,6 @@
 const express = require('express');
 const chefs = require('./data/chefs.json');
+const recipes = require('./data/recipes.json');
 const cors = require('cors');
 const app = express();
 const port = 3000;
@@ -17,6 +18,9 @@ app.get("/chefs/:id", (req, res)=>{
     const id = req.params.id;
     const chef = chefs.find(ch=> parseInt(ch.id) === parseInt(id));
     res.send(chef);
+})
+app.get('/recipes', (req, res)=>{
+    res.send(recipes)
 })
 app.listen(port, ()=>{
     console.log(`our local port is ${port}`);

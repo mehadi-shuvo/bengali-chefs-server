@@ -1,6 +1,8 @@
 [
       {
-        "name": "Pesto Pasta",
+        "id":1,
+        "name": "Chicken Kacchi",
+        "picture": "https://iili.io/HSaOJ2I.md.jpg",
         "ingredients": [
           "1 pound spaghetti",
           "1 cup fresh basil leaves",
@@ -10,11 +12,13 @@
           "3 garlic cloves, chopped",
           "Salt and pepper to taste"
         ],
-        "method": "1. Cook spaghetti according to package instructions.\n2. In a food processor, combine basil, Parmesan cheese, olive oil, pine nuts, garlic, salt, and pepper. Pulse until smooth.\n3. Drain spaghetti and toss with pesto sauce until evenly coated.\n4. Serve hot and enjoy!",
+        "method": "Cook spaghetti according to package instructions. In a food processor, combine basil, Parmesan cheese, olive oil, pine nuts, garlic, salt, and pepper. Pulse until smooth. Drain spaghetti",
         "rating": 4.5
       },
       {
-        "name": "Chicken Tikka Masala",
+        "id":2,
+        "name": "Ilish Polao",
+        "picture": "https://iili.io/HSaOd7t.md.jpg",
         "ingredients": [
           "1 pound boneless, skinless chicken breasts, cut into bite-sized pieces",
           "1 cup plain yogurt",
@@ -29,11 +33,13 @@
           "1 cup heavy cream",
           "1/4 cup chopped fresh cilantro"
         ],
-        "method": "1. In a large bowl, combine chicken, yogurt, lemon juice, cumin, cinnamon, cayenne, black pepper, ginger, and garlic. Stir to combine, then cover and refrigerate for at least 1 hour or overnight.\n2. Preheat oven to 400°F. Line a baking sheet with aluminum foil.\n3. Thread chicken onto skewers and place on prepared baking sheet.\n4. Bake for 20-25 minutes or until chicken is cooked through.\n5. In a large saucepan, heat tomato sauce and cream over medium heat. Add chicken and stir to combine.\n6. Serve hot with rice and garnish with cilantro.",
+        "method": "In a large bowl, combine chicken, yogurt, lemon juice, cumin, cinnamon, cayenne, black pepper, ginger, and garlic. Stir to combine, then cover and refrigerate for at least 1 hour or overnight. Preheat oven to 400°F. Line a baking sheet with aluminum foil. Thread chicken onto skewers and place on prepared baking sheet.",
         "rating": 4.8
       },
       {
-        "name": "Chocolate Chip Cookies",
+        "id":3,
+        "name": "Special Lunch",
+        "picture": "https://iili.io/HSaNbLv.md.jpg",
         "ingredients": [
           "2 1/4 cups all-purpose flour",
           "1 teaspoon baking soda",
@@ -45,7 +51,7 @@
           "1 teaspoon vanilla extract",
           "2 cups semisweet chocolate chips"
         ],
-        "method": "1. Preheat oven to 375°F. Line a baking sheet with parchment paper.\n2. In a medium bowl, whisk together flour, baking soda, and salt.\n3. In a large bowl, beat butter, granulated sugar, and brown sugar until creamy. Add eggs and vanilla extract and beat until well combined.\n4. Gradually add flour mixture to butter mixture and beat until just combined. Stir in chocolate chips.\n5. Drop tablespoon-sized balls of dough onto prepared baking sheet, spacing them about 2 inches apart.\n6. Bake for 10-12 minutes or until golden brown.\n7. Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+        "method": "Preheat oven to 375°F. Line a baking sheet with parchment paper. In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, beat butter, granulated sugar, and brown sugar until creamy. Add eggs and vanilla extract and beat until well combined.",
         "rating": 4.9
       }
     ]

@@ -23,7 +23,7 @@
         "id": 3,
         "name": "Mamun Munna",
         "picture": "https://iili.io/HSaF4se.md.jpg",
-        "experience": "Easy",
+        "experience": 5,
         "number_of_recipe": 1000,
         "likes": 20000,
         "bio": "Sometimes, you just need a good ol' classic cheeseburger. This recipe will hit the spot!",
